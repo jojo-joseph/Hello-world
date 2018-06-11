@@ -1,2 +1,2 @@
 # This is simple pgm
-print ("hello world")
+print ("hello world jojo")
